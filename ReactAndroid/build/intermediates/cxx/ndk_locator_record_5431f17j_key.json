@@ -1,0 +1,8 @@
+{
+  "ndkVersionFromDsl": "21.4.7075529",
+  "ndkDirProperty": "/home/manolis/Android/Ndk/android-ndk-r20b",
+  "sdkFolder": "/home/manolis/Android/Sdk",
+  "sideBySideNdkFolderNames": [
+    "21.4.7075529"
+  ]
+}
